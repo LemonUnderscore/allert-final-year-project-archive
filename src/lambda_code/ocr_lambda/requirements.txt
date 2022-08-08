@@ -1,0 +1,8 @@
+fpdf
+pillow
+pytesseract
+awscli
+boto3
+opencv-python
+numpy
+deskew
